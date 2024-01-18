@@ -1,5 +1,7 @@
-# This project is derived from lit-element-starter-js at https://github.com/lit/lit-element-starter-js
-# It is then applied with polymer's app-drawer layout to test the behavior of @apply
+# Introduction
+
+This project is derived from lit-element-starter-js at https://github.com/lit/lit-element-starter-js
+It is then applied with polymer's app-drawer layout to test the behavior of @apply
 
 
 # LitElement JavaScript starter
