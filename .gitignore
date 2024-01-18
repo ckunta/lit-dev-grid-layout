@@ -1,3 +1,8 @@
+#support folders
+dist/
+stats.html
+analyzer-report.txt
 node_modules/
-dist/ 
 *~
+
+
