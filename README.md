@@ -3,6 +3,25 @@
 This project is derived from lit-element-starter-js at https://github.com/lit/lit-element-starter-js
 It is then applied with polymer's app-drawer layout to test the behavior of @apply
 
+# Quick Start
+
+Install dependencies:
+
+```bash
+npm i
+```
+
+Run locally:
+```bash
+npm run start
+```
+
+Test run from distribution:
+```bash
+npm run start:build
+```
+
+
 
 # LitElement JavaScript starter
 

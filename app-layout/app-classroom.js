@@ -64,7 +64,7 @@ class C3doClassroomApps extends LitElement {
          gap: 0px 0px;
          grid-auto-flow: row;
          grid-template-areas:
-            "Menu Toolbar"
+            "Tollbar Toolbar"
             "Menu MainDisplay";
       }
 
